@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Boninall's GitHub stats](https://github-readme-stats.vercel.app/api?username=quorafind&show_icons=true&theme=radical)
+![Boninall(Quorafind)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=quorafind&show_icons=true&theme=radical)

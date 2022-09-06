@@ -10,6 +10,8 @@ Consider buying me coffee here:
 
 <a href="https://www.buymeacoffee.com/boninall"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=boninall&button_colour=6495ED&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
 
+或者，考虑给我发电一下： https://afdian.net/a/boninall
+
 ### Stats
 
 ![Boninall(Quorafind)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=quorafind&show_icons=true&theme=buefy&hide=stars&hide_rank=true)

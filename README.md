@@ -1,14 +1,8 @@
 ![200](https://user-images.githubusercontent.com/13215013/223336815-9bad3b2e-4090-430f-8357-6c41eba1ad74.png)
 
 
-### Hi 👋
-- 📫 How to reach me: bonopengate@gmail.com
-
----
-
-### 你好 👋
-
-- 📫 你可以通过邮箱联系我: bonopengate@gmail.com
+### Hi 👋 | 你好 👋
+- 📫 How to reach me: bonopengate@gmail.com | 📫 你可以通过邮箱联系我: bonopengate@gmail.com
 
 ---
 

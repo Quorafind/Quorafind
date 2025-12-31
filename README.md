@@ -1,6 +1,6 @@
 Enjoy life and just create things.
 
-**If you would like me to develop an Obsidian plugin for personal use, please contact me by email.**
+Email: bonopengate@gmail.com
 
 ![800x800](https://glitch-art.vercel.app/api/simple?word=%20%20%20%20[[Obsidian]]%20%20%20%20)
 
